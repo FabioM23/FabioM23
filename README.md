@@ -1,7 +1,7 @@
 ### Olá eu sou o Fábio, seja bem vindo ao meu perfil! 👋
 🌱 Atualmente estou estudando analise e desenvolvimento de sistemas
 <div align="center">
-  <a href="(https://github.com/FabioM23)">
+  <a href="https://github.com/FabioM23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioM23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioM23&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
@@ -11,6 +11,7 @@
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
+  
   <div> 
   <a href="https://www.youtube.com/channel/UCNw-FPTeizVyHpNypEjwPPw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fabiomiraa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
